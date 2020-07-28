@@ -1,0 +1,14 @@
+Object: my_pasta
+
+Attributes:
+1. noodle_type: "Linguine"
+2. has_cheese: false
+3. cups_of_noodles: 2
+4. ingredients: ["tomatoes", "garlic", "herbs"]
+
+Methods:
+1. lowercase_type: noodle_type = "linguine"
+2. change_cheese: has_cheese = true
+3. calculate_noodle_calories: 2 * 352 = 704
+4. add_basil: ingredients = ["tomatoes", "garlic", "herbs", "basil"]
+5. add_noodle_ingredient: ingredients = ["tomatoes", "garlic", "herbs", "basil", "linguine"]
