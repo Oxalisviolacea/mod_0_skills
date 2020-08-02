@@ -1,4 +1,4 @@
-Class: coffee
+Class: Coffee
 
 Attributes:
 1. type (string)
