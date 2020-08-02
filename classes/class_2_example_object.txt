@@ -1,4 +1,4 @@
-Object: my_pasta
+Object: MyPasta
 
 Attributes:
 1. noodle_type: "Linguine"
