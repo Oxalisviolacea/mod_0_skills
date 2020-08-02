@@ -1,4 +1,4 @@
-Object: my_coffee
+Object: MyCoffee
 
 Attributes:
 type: "Mocha"
