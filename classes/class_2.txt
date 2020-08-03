@@ -5,6 +5,7 @@ Attributes:
 2. dairy_free (boolean)
 3. cups_of_noodles (integer)
 4. ingredients (array)
+5. cook_time (integer)
 
 Methods:
 1. lowercase_type (changes all the letters to lowercase)
@@ -12,3 +13,4 @@ Methods:
 3. calculate_noodle_calories (multiplies cups_of_noodles by 352)
 4. add_basil (adds "basil" to ingredients)
 5. add_noodle_ingredient (adds noodle_type to list of ingredients)
+6. add_cook_time: (adds the dish's cook time to an array with cook times for the table)
