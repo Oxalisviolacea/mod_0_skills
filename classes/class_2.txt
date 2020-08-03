@@ -8,7 +8,7 @@ Attributes:
 
 Methods:
 1. lowercase_type (changes all the letters to lowercase)
-2. dairy_free (checks array for "cheese" and "linguine")
+2. dairy_free (checks array for "cheese" and "milk")
 3. calculate_noodle_calories (multiplies cups_of_noodles by 352)
 4. add_basil (adds "basil" to ingredients)
 5. add_noodle_ingredient (adds noodle_type to list of ingredients)
