@@ -2,7 +2,7 @@ Class: Pasta
 
 Attributes:
 1. noodle_type (string)
-2. has_cheese (boolean)
+2. dairy_free (boolean)
 3. cups_of_noodles (integer)
 4. ingredients (array)
 
