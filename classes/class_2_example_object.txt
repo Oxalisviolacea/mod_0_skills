@@ -5,10 +5,12 @@ Attributes:
 2. dairy_free: nil
 3. cups_of_noodles: 2
 4. ingredients: ["tomatoes", "garlic", "herbs", "cheese"]
+5. cook_time: 15
 
 Methods:
-1. lowercase_type: noodle_type = "linguine"
-2. dairy_free = ingredients includes "cheese", so dairy_free = true
-3. calculate_noodle_calories: 2 * 352 = 704
-4. add_basil: ingredients = ["tomatoes", "garlic", "herbs", "basil"]
-5. add_noodle_ingredient: ingredients = ["tomatoes", "garlic", "herbs", "basil", "linguine", "cheese"]
+1. dairy_free: ingredients include "cheese", so dairy_free = false
+2. noodle_calories: 2 * 352 = 704
+3. add_basil: ingredients = ["tomatoes", "garlic", "herbs", "basil"]
+4. add_noodle_ingredient: ingredients = ["tomatoes", "garlic", "herbs", "basil", "linguine", "cheese"]
+5. total_coooktime: find the greatest cooktime for 
+6. add_cook_time: [ 20, 10, 5, 25, 15 ]
