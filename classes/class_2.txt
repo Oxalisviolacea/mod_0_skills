@@ -5,7 +5,7 @@ Attributes:
 2. dairy_free (boolean)
 3. cups_of_noodles (integer)
 4. ingredients (array)
-5. cook_time (integer)
+5. l1_cook_time (integer) - l1, left 1 refers to the position at the table
 
 Methods:
 1. lowercase_type (changes all the letters to lowercase)
